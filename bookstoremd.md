@@ -227,5 +227,6 @@ Future Scope:
 - Multilingual Support: Supporting multiple languages will allow the system to serve a
     more diverse user base.
 
+
 ####### This was edited by Boogdán Botond, and Orosz Dániel
 
