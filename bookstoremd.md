@@ -228,5 +228,5 @@ Future Scope:
     more diverse user base.
 
 
-####### This was edited by Boogdán Botond, and Orosz Dániel
+###### This was edited by Boogdán Botond, and Orosz Dániel
 
